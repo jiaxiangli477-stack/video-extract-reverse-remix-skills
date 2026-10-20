@@ -1,0 +1,515 @@
+{
+  "duration": 58,
+  "container_duration": 58.002993,
+  "fps": 30,
+  "frames": 1740,
+  "width": 1280,
+  "height": 720,
+  "source": {
+    "url": "https://www.douyin.com/video/7698223957752679680",
+    "local": "D:\\Codex\\deepseek-ten-styles-replica\\source\\video.mp4",
+    "sha256": "b150abb57c8c8a89da281d20fa706bc908cf648f821dac5e18a8ac288abeb27f",
+    "access_date": "2026-10-19"
+  },
+  "audio_analysis": "Not listened by timeline reviewer; no dialogue or BPM claim.",
+  "timing_note": "Main cuts use independently provided scene-cut candidates and all-second visual checks. Card cuts 45.0-46.8 additionally viewed at 10fps. Subsecond semantic reveal timings are sampled observations, not author keyframes; precise transition opacity not recovered.",
+  "segments": [
+    {
+      "id": "intro",
+      "start": 0,
+      "end": 7,
+      "label": "开场自述",
+      "description": "暗蓝黑径向背景、极暗网格；等宽打字自述到彩色词爆发。",
+      "key_events": [
+        {
+          "time": 0,
+          "event": "中心蓝色光标"
+        },
+        {
+          "time": 1,
+          "event": "Hello，我是 Deep…逐字输入"
+        },
+        {
+          "time": 2.5,
+          "event": "Hello，我是 DeepSeek-V4.1-Flash-1017。完成并移到上方"
+        },
+        {
+          "time": 3.5,
+          "event": "我不是视频生成模型，我画不出任何一帧画面。逐行清晰"
+        },
+        {
+          "time": 4,
+          "event": "增加但是——"
+        },
+        {
+          "time": 5,
+          "event": "代码，可以变成任何风格的视频。居中粗黑体，任何风格逐字彩色，短线放射"
+        },
+        {
+          "time": 6.5,
+          "event": "文字维持、短线远散"
+        }
+      ]
+    },
+    {
+      "id": "particles",
+      "start": 7,
+      "end": 10.5,
+      "label": "01 粒子三维",
+      "description": "蓝紫青粒子由散云成球再排1017；低位字幕九千个粒子，排成一个名字。",
+      "key_events": [
+        {
+          "time": 7,
+          "event": "散点过渡及短暂亮闪"
+        },
+        {
+          "time": 8,
+          "event": "中心直径约530px球壳"
+        },
+        {
+          "time": 9,
+          "event": "球壳解散成云"
+        },
+        {
+          "time": 10,
+          "event": "1017横跨x180-1140，字幕完整"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "start": 10.5,
+      "end": 14,
+      "label": "02 赛博故障",
+      "description": "黑底SYSTEM//ONLINE巨大等宽白字，信号重建中第二行，RGB故障、扫描线、青色扫描带。",
+      "key_events": [
+        {
+          "time": 11,
+          "event": "中文字红青分离"
+        },
+        {
+          "time": 12,
+          "event": "文字重合可读"
+        },
+        {
+          "time": 13,
+          "event": "细横扫描线与顶部进度／SYNC/FREQ/ERR数值"
+        }
+      ]
+    },
+    {
+      "id": "glass",
+      "start": 14,
+      "end": 17.5,
+      "label": "03 玻璃拟态",
+      "description": "紫粉蓝模糊光团全屏，半透明圆角天气、音乐、日期、开关卡片。",
+      "key_events": [
+        {
+          "time": 14,
+          "event": "仅柔焦背景"
+        },
+        {
+          "time": 15,
+          "event": "卡片已出现"
+        },
+        {
+          "time": 16,
+          "event": "左24°杭州·西湖区；中Render Loop/useCurrentFrame()；右OCT17/Build Day；毛玻璃 开"
+        },
+        {
+          "time": 17,
+          "event": "卡片小幅漂移、音柱变化"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "start": 17.5,
+      "end": 21,
+      "label": "04 剪纸国风",
+      "description": "暖米色纸纹，五层杏色到深红山峦，红日与三只极简飞鸟；右侧竖排层峦叠嶂。",
+      "key_events": [
+        {
+          "time": 18,
+          "event": "山峦红日先出现"
+        },
+        {
+          "time": 19,
+          "event": "竖排字已出现"
+        },
+        {
+          "time": 20,
+          "event": "五层纸·一束光及代码剪纸印章完整"
+        }
+      ]
+    },
+    {
+      "id": "teach",
+      "start": 21,
+      "end": 22.5,
+      "label": "想教会人",
+      "description": "浅紫转浅杏背景，黑色粗体居中。",
+      "key_events": [
+        {
+          "time": 21,
+          "event": "浅色底先出现"
+        },
+        {
+          "time": 22,
+          "event": "想教会人完整"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "start": 22.5,
+      "end": 26,
+      "label": "05 数字地球",
+      "description": "蓝色大气发光点阵球，占左中约700px；黄源点连接细弧线；左字一座城，连向世界。",
+      "key_events": [
+        {
+          "time": 23,
+          "event": "一条弧线，01 ARCS/16K SAMPLES"
+        },
+        {
+          "time": 24,
+          "event": "八条左右弧线，08"
+        },
+        {
+          "time": 25,
+          "event": "12条弧线，12；球面点阵旋转"
+        }
+      ]
+    },
+    {
+      "id": "ascii",
+      "start": 26,
+      "end": 29.5,
+      "label": "06 ASCII终端",
+      "description": "近黑绿色终端大窗；左侧渐进代码、右侧由绿色亮度字符绘制的旋转甜甜圈。",
+      "key_events": [
+        {
+          "time": 26,
+          "event": "黑绿入场，右上只用12个字符画3D"
+        },
+        {
+          "time": 27,
+          "event": "右侧甜甜圈横向空洞"
+        },
+        {
+          "time": 28,
+          "event": "甜甜圈斜转竖向，左代码增加"
+        },
+        {
+          "time": 29,
+          "event": "甜甜圈进一步俯仰"
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "start": 29.5,
+      "end": 33,
+      "label": "07 等距小城",
+      "description": "浅奶油粉底，等距菱形方格底座、道路、树木，青紫橙黄楼群从地面长高。",
+      "key_events": [
+        {
+          "time": 30,
+          "event": "中等楼群，居中"
+        },
+        {
+          "time": 31,
+          "event": "楼群向右，左积木小城，自己长出来"
+        },
+        {
+          "time": 32,
+          "event": "高楼和前排低楼完整，左小字ISOMETRIC · SVG"
+        }
+      ]
+    },
+    {
+      "id": "brand",
+      "start": 33,
+      "end": 34.5,
+      "label": "想做品牌",
+      "description": "浅紫转浅绿背景，中央黑色粗字想做品牌。",
+      "key_events": [
+        {
+          "time": 33,
+          "event": "浅色空底"
+        },
+        {
+          "time": 34,
+          "event": "想做品牌完整"
+        }
+      ]
+    },
+    {
+      "id": "metal",
+      "start": 34.5,
+      "end": 38,
+      "label": "08 物理材质",
+      "description": "深灰紫棚拍背景、灰色圆柱展台、悬浮金色粗管编结、白色和紫色镜面球。",
+      "key_events": [
+        {
+          "time": 35,
+          "event": "金色结以正斜角呈现"
+        },
+        {
+          "time": 36,
+          "event": "主体旋转，左下斜衬线Aurum Knot出现"
+        },
+        {
+          "time": 37,
+          "event": "转近侧面；METALNESS 1.0 · ROUGHNESS 0.14 · IRIDESCENCE细字"
+        }
+      ]
+    },
+    {
+      "id": "radial",
+      "start": 38,
+      "end": 41.5,
+      "label": "09 数据可视化",
+      "description": "深紫黑，右侧365细柱年轮从青蓝绿过渡黄橙红；左一年温度说明，示例数据。",
+      "key_events": [
+        {
+          "time": 38,
+          "event": "入场低对比和数值未定，不能取-151为真实数据"
+        },
+        {
+          "time": 39,
+          "event": "圆环342天，17.6°均温31.4°最高"
+        },
+        {
+          "time": 40,
+          "event": "364天，16.8°均温"
+        },
+        {
+          "time": 41,
+          "event": "365天，16.8°均温31.4°最高；四周一月四月七月十月"
+        }
+      ]
+    },
+    {
+      "id": "chalk",
+      "start": 41.5,
+      "end": 45,
+      "label": "10 黑板手绘",
+      "description": "木框深绿黑板，左单位圆右坐标，粉笔纹理，黄色旋转半径与紫粉正弦轨迹。",
+      "key_events": [
+        {
+          "time": 42,
+          "event": "圆弧及坐标初始，θ=0.00π"
+        },
+        {
+          "time": 43,
+          "event": "单位圆半径与对应正弦已延伸，θ=0.25π"
+        },
+        {
+          "time": 44,
+          "event": "θ=1.75π，曲线至负峰附近；标题y=sinθ，副标题一个转动的点，一条起伏的线"
+        }
+      ]
+    },
+    {
+      "id": "card-1",
+      "start": 45.0,
+      "end": 45.2,
+      "label": "片头",
+      "description": "全屏纯色#ff585b，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 45.0,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-2",
+      "start": 45.2,
+      "end": 45.4,
+      "label": "MV",
+      "description": "全屏纯色#ffb344，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 45.2,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-3",
+      "start": 45.4,
+      "end": 45.6,
+      "label": "教程",
+      "description": "全屏纯色#ffe366，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 45.4,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-4",
+      "start": 45.6,
+      "end": 45.8,
+      "label": "广告",
+      "description": "全屏纯色#78d38a，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 45.6,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-5",
+      "start": 45.8,
+      "end": 46.0,
+      "label": "海报",
+      "description": "全屏纯色#45c9d9，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 45.8,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-6",
+      "start": 46.0,
+      "end": 46.2,
+      "label": "发布会",
+      "description": "全屏纯色#5b73f4，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 46.0,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-7",
+      "start": 46.2,
+      "end": 46.4,
+      "label": "动态 LOGO",
+      "description": "全屏纯色#ae91ef，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 46.2,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-8",
+      "start": 46.4,
+      "end": 46.6,
+      "label": "字幕条",
+      "description": "全屏纯色#ef7da5，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 46.4,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "card-9",
+      "start": 46.6,
+      "end": 46.8,
+      "label": "年度报告",
+      "description": "全屏纯色#f7f8fa，中央黑色粗体标题，约96px，无边框。",
+      "key_events": [
+        {
+          "time": 46.6,
+          "event": "硬切标题卡"
+        }
+      ]
+    },
+    {
+      "id": "more",
+      "start": 46.8,
+      "end": 47.5,
+      "label": "还有更多？",
+      "description": "黑底蓝色还有更多与白问号，入场短暂巨大到收缩居中。",
+      "key_events": [
+        {
+          "time": 46.8,
+          "event": "超大文字入场"
+        },
+        {
+          "time": 47,
+          "event": "完整居中文字"
+        }
+      ]
+    },
+    {
+      "id": "code",
+      "start": 47.5,
+      "end": 52,
+      "label": "代码写出每帧",
+      "description": "极暗代码文本左中滚动背景，前景宋体两行。",
+      "key_events": [
+        {
+          "time": 48,
+          "event": "仅暗代码底"
+        },
+        {
+          "time": 49,
+          "event": "以上每一帧，出现"
+        },
+        {
+          "time": 50,
+          "event": "都是一行一行代码写出来的。完整，一行一行代码为蓝"
+        },
+        {
+          "time": 51,
+          "event": "前景维持，背景代码移动"
+        }
+      ]
+    },
+    {
+      "id": "finale",
+      "start": 52,
+      "end": 58,
+      "label": "10 17",
+      "description": "蓝色倒角挤出数字从离散旋转聚合成10 17，深蓝散景背景；白等宽标题与两行小字。",
+      "key_events": [
+        {
+          "time": 52,
+          "event": "离散数字：小0及旋转1"
+        },
+        {
+          "time": 52.5,
+          "event": "10已上移对齐，1和7仍独立"
+        },
+        {
+          "time": 53,
+          "event": "10 17完整，位于画面上半部"
+        },
+        {
+          "time": 54,
+          "event": "DeepSeek-V4.1-Flash完整"
+        },
+        {
+          "time": 55,
+          "event": "10种风格 · 1740帧 · 0个视频生成模型；BUILT WITH REMOTION + THREE.JS"
+        },
+        {
+          "time": 57,
+          "event": "完整收尾构图维持"
+        },
+        {
+          "time": 57.5,
+          "event": "整体开始明显暗出"
+        },
+        {
+          "time": 58,
+          "event": "终止"
+        }
+      ]
+    }
+  ]
+}

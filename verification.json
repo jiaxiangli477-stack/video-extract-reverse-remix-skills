@@ -1,0 +1,116 @@
+{
+  "status": "pass",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "30/1",
+  "video_frames": 1740,
+  "video_duration": "58.000000",
+  "container_duration": "58.002993",
+  "source_container_duration": "58.002993",
+  "full_av_decode": "pass",
+  "decoded_audio_sha256_equal": true,
+  "decoded_audio_hash": "SHA256=dc66ce5fe2045fbe76a6cd23d481d7b45e98ab11840214516f3a45140a99cdea",
+  "fast_cards": [
+    {
+      "label": "片头",
+      "frames": 6,
+      "rgb_first": [
+        254,
+        88,
+        90
+      ]
+    },
+    {
+      "label": "MV",
+      "frames": 6,
+      "rgb_first": [
+        255,
+        179,
+        69
+      ]
+    },
+    {
+      "label": "教程",
+      "frames": 6,
+      "rgb_first": [
+        254,
+        227,
+        101
+      ]
+    },
+    {
+      "label": "广告",
+      "frames": 6,
+      "rgb_first": [
+        120,
+        211,
+        138
+      ]
+    },
+    {
+      "label": "海报",
+      "frames": 6,
+      "rgb_first": [
+        68,
+        201,
+        216
+      ]
+    },
+    {
+      "label": "发布会",
+      "frames": 6,
+      "rgb_first": [
+        93,
+        115,
+        245
+      ]
+    },
+    {
+      "label": "动态LOGO",
+      "frames": 6,
+      "rgb_first": [
+        174,
+        145,
+        239
+      ]
+    },
+    {
+      "label": "字幕条",
+      "frames": 6,
+      "rgb_first": [
+        240,
+        125,
+        165
+      ]
+    },
+    {
+      "label": "年度报告",
+      "frames": 6,
+      "rgb_first": [
+        246,
+        248,
+        250
+      ]
+    }
+  ],
+  "three_d_assets": [
+    {
+      "scene": "city",
+      "frames": 105,
+      "three_sample_frames_distinct": true
+    },
+    {
+      "scene": "metal",
+      "frames": 105,
+      "three_sample_frames_distinct": true
+    },
+    {
+      "scene": "logo",
+      "frames": 180,
+      "three_sample_frames_distinct": true
+    }
+  ],
+  "final_sha256": "aafc46650f107f15133d929531b0cae4df44fed881f6453914248945c743dadc"
+}
